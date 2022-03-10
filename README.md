@@ -10,5 +10,5 @@ acumular pontos ao destruir inimigos e salvar um amigo. Jogo finaliza
 quando ocorre 3 colisões do helicóptero com os inimigos
 
 # Calculadora
-Simples calculadora feita com HTML, CSS e JavaScript.
+Simples calculadora feita com HTML, CSS e JavaScript.   
 Calculadora foi feita com os conhecimentos adquiridos na mentoria 5.
