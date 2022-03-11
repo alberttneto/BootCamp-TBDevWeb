@@ -12,3 +12,8 @@ quando ocorre 3 colisões do helicóptero com os inimigos
 # Calculadora
 Simples calculadora feita com HTML, CSS e JavaScript.   
 Calculadora foi feita com os conhecimentos adquiridos na mentoria 5.
+
+# Github Finder
+Um buscador de informações de usuário do github.  
+Através da busca pelo nome de usuario no github ele retorna informações do usuario,  
+tais como foto, repositorios, seguidores e outros. Feito com uso de HTML, CSS, JS e API do github.
