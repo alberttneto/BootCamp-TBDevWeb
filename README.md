@@ -29,3 +29,7 @@ https://alberttneto.github.io/BootCamp-TBDevWeb/Calculadora_Mentoria5/
 Um buscador de informações de usuário do github.  
 Através da busca pelo nome de usuario no github ele retorna informações do usuario,
 tais como foto, repositorios, seguidores e outros. Feito com uso de HTML, CSS, JS e API do github.
+
+Link:
+
+https://alberttneto.github.io/BootCamp-TBDevWeb/Github_Finder_Mentoria7/
